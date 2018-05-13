@@ -6,3 +6,7 @@ function addElementToBeginningOfArray(array, element){
   
   dogBreeds.unshift();
 }
+
+function destructivelyAddElementToBeginningOfArray(array, element){
+  
+}
