@@ -49,3 +49,11 @@ function removeElementFromBeginningOfArray(array){
   return array;
   
 }
+
+function destrutivelyRemoveElementFromEndOfArray(array){
+  
+  array.pop();
+  
+  return array;
+  
+}
