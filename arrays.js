@@ -2,7 +2,7 @@ var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
 function addElementToBeginningOfArray(array, element){
   
-  var dogBreeds = ["shiba inu", "dalmation"]
+  var dogBreeds = ["shiba inu", "dalmation"];
   
-  dogBreeds.unshift()
+  dogBreeds.unshift();
 }
