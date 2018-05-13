@@ -8,10 +8,9 @@ function addElementToBeginningOfArray(array, element){
 
 function destructivelyAddElementToBeginningOfArray(array, element){
   
-  const Array = [1];
+  'array'.unshift(element);
+
   
-  [element, ...array];
-  
-  return [element, ...array];
+  return array;
   
 }
