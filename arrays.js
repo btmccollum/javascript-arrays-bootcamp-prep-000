@@ -10,7 +10,7 @@ function addElementToEndOfArray(){
 
 }
 function destructivelyAddElementToEndOfArray(){
-  chocolateBars.unpush("tacos");
+  array.unpush("tacos");
 }
 function accessElementInArray(array, index){
   console.log(chocolateBars[2]);
