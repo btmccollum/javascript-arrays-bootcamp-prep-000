@@ -7,7 +7,7 @@ function destructivelyAddElementToBeginningOfArray(array, element){
 chocolateBars.unshift(`${element}`);
 }
 function addElementToEndOfArray(){
-chocolateBars = [...chocolateBars, "tacos"]
+
 }
 function destructivelyAddElementToEndOfArray(){
   chocolateBars.unpush("tacos");
